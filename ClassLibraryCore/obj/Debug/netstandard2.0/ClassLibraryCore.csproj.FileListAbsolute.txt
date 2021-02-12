@@ -1,0 +1,8 @@
+C:\Users\dgcar\source\repos\WGUClassScheduler\ClassLibraryCore\bin\Debug\netstandard2.0\ClassLibraryCore.deps.json
+C:\Users\dgcar\source\repos\WGUClassScheduler\ClassLibraryCore\bin\Debug\netstandard2.0\ClassLibraryCore.dll
+C:\Users\dgcar\source\repos\WGUClassScheduler\ClassLibraryCore\bin\Debug\netstandard2.0\ClassLibraryCore.pdb
+C:\Users\dgcar\source\repos\WGUClassScheduler\ClassLibraryCore\obj\Debug\netstandard2.0\ClassLibraryCore.AssemblyInfoInputs.cache
+C:\Users\dgcar\source\repos\WGUClassScheduler\ClassLibraryCore\obj\Debug\netstandard2.0\ClassLibraryCore.AssemblyInfo.cs
+C:\Users\dgcar\source\repos\WGUClassScheduler\ClassLibraryCore\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\dgcar\source\repos\WGUClassScheduler\ClassLibraryCore\obj\Debug\netstandard2.0\ClassLibraryCore.dll
+C:\Users\dgcar\source\repos\WGUClassScheduler\ClassLibraryCore\obj\Debug\netstandard2.0\ClassLibraryCore.pdb
